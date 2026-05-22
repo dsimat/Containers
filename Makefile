@@ -1,4 +1,4 @@
-NOTEBOOK = 5.2_assignment(1).ipynb
+NOTEBOOK = 5.2_assignment.ipynb
 EXECUTED = 5.2_assignment_executed.ipynb
 
 .PHONY: run html clean
