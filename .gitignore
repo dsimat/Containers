@@ -1,0 +1,30 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Packaging outputs
+build/
+dist/
+*.egg-info/
+
+# uv environment and metadata
+.venv/
+.uv/
+
+# Linter and formatter
+.ruff_cache/
+
+# Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
