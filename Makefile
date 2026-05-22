@@ -10,4 +10,4 @@ html:
 	uv run jupyter nbconvert --to html "$(NOTEBOOK)"
 
 clean:
-	rm -f "$(EXECUTED)" 5.2_assignment\(1\).html
+	rm -f "$(EXECUTED)" 5.2_assignment.html
